@@ -17,3 +17,4 @@ module.exports.help = {
     description: "show the avatar of a user",
     usage: "[@user]"
 }
+ 
