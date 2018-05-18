@@ -17,3 +17,4 @@ module.exports.help = {
     description: "shows the icon of a server",
     usage: "[!guildicon]"
 }
+
